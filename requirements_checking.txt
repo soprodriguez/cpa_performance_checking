@@ -1,0 +1,8 @@
+Requirements:
+
+Python installed
+psutil
+
+Installation:
+pip install psutil
+
